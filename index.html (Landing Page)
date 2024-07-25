@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Houseplants Shop</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="landing-page">
+        <div class="background-image"></div>
+        <div class="content">
+            <h1>Houseplants Shop</h1>
+            <p>Welcome to the best place to buy houseplants online. We offer a wide variety of beautiful and healthy plants to brighten up your home.</p>
+            <a href="products.html" class="get-started-button">Get Started</a>
+        </div>
+    </div>
+</body>
+</html>
